@@ -16,3 +16,5 @@ add_subdirectory( ${PROJECT_SOURCE_DIR}/src )
 
 add_executable( orb_extractor src/main.cpp src/orb_extractor.cpp )
 target_link_libraries( orb_extractor ${OpenCV_LIBS} )
+
+#add some test 
