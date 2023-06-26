@@ -18,3 +18,4 @@ add_executable( orb_extractor src/main.cpp src/orb_extractor.cpp )
 target_link_libraries( orb_extractor ${OpenCV_LIBS} )
 
 #add some test 
+#commit 记录索引的状态
