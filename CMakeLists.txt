@@ -19,3 +19,5 @@ target_link_libraries( orb_extractor ${OpenCV_LIBS} )
 
 #add some test 
 #commit 记录索引的状态
+# pull 取得远端数据库的内容
+
